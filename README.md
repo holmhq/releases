@@ -16,4 +16,4 @@ holm --help
 
 Choose **3 — CLI Only** to explore without starting a server. For a disposable node on Linux with systemd, choose **2 — Local Development** and open the dashboard URL printed by the installer. That mode uses `dev/dev` on a local network IP; use it only on a trusted network.
 
-Read the [Holm Usage License Agreement](https://license.holmhq.com/v1/) and accept it yourself when prompted; agents should not auto-accept. For instance setup and first CLI operations, follow the [agent quickstart](https://holmhq.com/llm.txt).
+Read the [Holm Usage License Agreement](https://license.holmhq.com/v1/) and accept it yourself when prompted; agents should not auto-accept. For instance setup and first CLI operations, follow the [agent quickstart](https://holmhq.com/llms-full.txt).
